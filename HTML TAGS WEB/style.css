@@ -1,0 +1,20 @@
+body{
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 40px;
+    background-color: rgb(232, 232, 232);
+    padding-right: 30px;
+    font-size: 18px;
+    font-family: 'Merriweather', serif;
+}
+
+html{
+    background: linear-gradient(darkviolet, yellow);
+    background-attachment: fixed;
+}
+
+h1,h2,h3,b {
+    font-variant: small-caps;
+    color: orangered;
+} 
+
